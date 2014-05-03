@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><sy:switchyard xmlns:sy="urn:switchyard-config:switchyard:1.1" xmlns:sca="http://docs.oasis-open.org/ns/opencsa/sca/200912" name="teste1" targetNamespace="urn:com.example.switchyard:teste1:1.0">
+    <sca:composite name="teste1" targetNamespace="urn:com.example.switchyard:teste1:1.0"/>
+</sy:switchyard>
